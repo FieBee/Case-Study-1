@@ -275,7 +275,7 @@ hr{
 .user img{
     width: 40px;
     margin-right: 20px;
-    border-radius: 3px;
+    border-radius: 50%;
 
 }
 .user-info .bi{
